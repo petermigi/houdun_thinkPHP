@@ -1,0 +1,5 @@
+thinkPHP3.1.3旧的项目构建方式
+单入口方式构建thinkphp项目
+即一个index.php  
+MVC为主
+M,V,C文件夹下各有前后台分组

@@ -1,0 +1,206 @@
+[ 2018-03-02T19:42:04+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002134s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017307s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\weblx\www\phptest\wish1\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\weblx\www\phptest\wish1\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.002477s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001302s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001112s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012252s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001749s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002116s ]
+
+[ 2018-03-02T19:45:30+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002030s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-02T19:50:20+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001885s ]
+
+[ 2018-03-02T19:50:28+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+
+[ 2018-03-02T19:50:55+08:00 ] 127.0.0.1 /wish1/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001550s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001756s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+
+[ 2018-03-02T19:53:39+08:00 ] 127.0.0.1 /wish1/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001731s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001939s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001575s ]
+
+[ 2018-03-02T19:54:32+08:00 ] 127.0.0.1 /wish1/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001288s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001496s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002994s ]
+
+[ 2018-03-02T19:54:49+08:00 ] 127.0.0.1 /wish1/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001323s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001531s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+
+[ 2018-03-02T19:58:15+08:00 ] 127.0.0.1 /wish1/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001666s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001916s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001647s ]
+
+[ 2018-03-02T21:16:51+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001900s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-02T21:17:10+08:00 ] 127.0.0.1 /wish1/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001690s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001912s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001596s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-02T21:18:44+08:00 ] 127.0.0.1 /wish1/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001879s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002088s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+
+[ 2018-03-02T21:20:27+08:00 ] 127.0.0.1 /wish1/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001841s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002053s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003954s ]
+
+[ 2018-03-02T21:20:34+08:00 ] 127.0.0.1 /wish1/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004880s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005448s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003658s ]
+
+[ 2018-03-02T21:20:50+08:00 ] 127.0.0.1 /wish1/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001720s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001929s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001806s ]
+
+[ 2018-03-02T21:24:24+08:00 ] 127.0.0.1 /wish1/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002261s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002472s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001934s ]
+
+[ 2018-03-02T21:25:27+08:00 ] 127.0.0.1 /wish1/index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001699s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001907s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014200s ]
+
+[ 2018-03-02T21:28:58+08:00 ] 127.0.0.1 /wish1/index.php/Index/abc
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001991s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002202s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002367s ]
+ERR: 无法加载模块:abc
+
+[ 2018-03-02T21:30:01+08:00 ] 127.0.0.1 /wish1/index.php/Index/abc
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001814s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002017s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+ERR: 无法加载模块:abc
+
+[ 2018-03-02T21:30:09+08:00 ] 127.0.0.1 /wish1/index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001898s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002571s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001820s ]
+
+[ 2018-03-02T21:30:55+08:00 ] 127.0.0.1 /wish1/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003168s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003428s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002068s ]
+
+[ 2018-03-02T23:57:49+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016319s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026243s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003024s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001996s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001618s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009172s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002305s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002478s ]
+
+[ 2018-03-02T23:58:32+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017103s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000971s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000991s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000797s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004323s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001210s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001377s ]
+
