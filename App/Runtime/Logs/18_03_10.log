@@ -1,0 +1,38 @@
+[ 2018-03-10T02:19:47+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002811s ]
+SQL: SHOW COLUMNS FROM `hd_wish` [ RunTime:0.022957s ]
+SQL: SELECT * FROM `hd_wish`  [ RunTime:0.000642s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044251s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001883s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001819s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001760s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007841s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002242s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002562s ]
+
+[ 2018-03-10T02:19:58+08:00 ] 127.0.0.1 /wish1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001808s ]
+SQL: SHOW COLUMNS FROM `hd_wish` [ RunTime:0.006001s ]
+SQL: SELECT * FROM `hd_wish`  [ RunTime:0.000407s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023222s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001324s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001233s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001027s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005479s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001756s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002349s ]
+
